@@ -1,0 +1,113 @@
+.card1{
+	width: 300px;
+	height: 570px;
+	background: white;
+	box-shadow: 0 0 40px rgb(0, 0, 0,0.26);
+	margin-top: 60px;
+	border-radius: 30px;
+	margin-right: 20px;
+}.back{
+	margin-top: 30px;
+	margin-left: 15px;
+	font-family:Century Gothic;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+.main{
+	background-color: #66eefa;
+	border-radius: 5px;
+	margin-top: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.details{
+	text-align: center;
+	margin-top: 10px;
+	font-family:Century Gothic;
+	font-weight: bold;
+}
+.department{
+	text-align: center;
+	margin-top: 3px;
+	font-weight: bold;
+	font-size: 12px;
+	color: #b3adc7;
+	font-family:Century Gothic;
+}
+.about{
+	margin-left: 20px;
+	margin-top: 22px;
+	font-family:Century Gothic;
+	font-weight: bold;
+	font-size: 15px;
+}
+.obst{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	color: #b3adc7;
+	font-family:Century Gothic;
+}
+.available{
+	margin-top: 20px;
+	font-family:Century Gothic;
+}
+.available p{
+
+	font-weight: bold;
+	font-size: 12px;
+	font-family:Century Gothic;
+}
+.experience{
+	margin-top: 15px;
+	font-family:Century Gothic;
+}
+.experience p{
+
+	font-weight: bold;
+	font-size: 12px;
+	font-family:Century Gothic;
+}
+.checked{
+	color: yellow;
+}
+.review{
+	font-family:Century Gothic;
+	font-size: 15px;
+}
+.client_rw{
+	font-family:Century Gothic;
+	font-size: 12px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.qut{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 10px;
+	color: #b3adc7;
+	font-family:Century Gothic;
+}
+.btn{
+	margin-top: 20px;
+	border-radius: 25px;
+	width: 250px;
+	padding: 5px;
+	background-color: #84f0ee;
+	font-family:Century Gothic;
+	font-size: 12px;
+	border: 3px solid #f5fffb;
+	font-weight: bold;
+	cursor: pointer;
+}
+.avtre{
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: #eb8b42;
+	border-radius: 8px;
+	}
